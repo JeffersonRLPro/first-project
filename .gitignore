@@ -1,0 +1,3 @@
+# ignore log files
+# The "*" matches any text, then ".log", effectively ignoreing all log files.
+*.log
